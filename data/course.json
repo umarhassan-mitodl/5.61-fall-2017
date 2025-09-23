@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ]
+  ],
+  "legacy_uid": "94c07986-9dc2-1ad5-5c2e-c841c2b3c839",
+  "instructors": {
+    "content": [
+      "3bb00750-4104-95e3-58ad-6f8d7504e607"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aac3f839-63cf-867b-65f8-21a0fa92829b",
+    "website": "5-61-physical-chemistry-fall-2017"
+  },
+  "course_title": "Physical Chemistry",
+  "course_description": "This course is an introduction to quantum mechanics for _use_ by chemists. Topics include particles and waves, wave mechanics, semi-classical quantum mechanics, matrix mechanics, perturbation theory, molecular orbital theory, molecular structure, molecular spectroscopy, and photochemistry. Emphasis is on creating and building confidence in the use of intuitive pictures.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.61",
+  "course_image_thumbnail": {
+    "content": "beffb262-a87d-a85e-8e57-ab012cd59cae",
+    "website": "5-61-physical-chemistry-fall-2017"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "93db85f5-2383-4856-9d6f-13278c42eb68",
+  "site_short_id": "5.61-fall-2017",
+  "site_url_path": "courses/5-61-physical-chemistry-fall-2017",
+  "title": "Course Metadata"
+}
