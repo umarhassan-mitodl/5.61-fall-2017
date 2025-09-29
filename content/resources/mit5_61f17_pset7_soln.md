@@ -4,6 +4,8 @@ description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/44813fcb0f6064ca100dc5193e7059b5_MIT5_61F17_pset7_soln.pdf
 file_size: 502423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

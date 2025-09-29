@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains the problems sets and their solutions. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
