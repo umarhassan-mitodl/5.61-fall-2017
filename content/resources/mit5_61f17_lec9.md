@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/ca914a031c803bf4728976edf1852390_MIT5_61F17_lec9.pdf
 file_size: 842878
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

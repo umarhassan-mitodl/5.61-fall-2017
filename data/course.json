@@ -23,7 +23,6 @@
     "website": "5-61-physical-chemistry-fall-2017"
   },
   "course_title": "Physical Chemistry",
-  "hide_download": true,
   "course_description": "This course is an introduction to quantum mechanics for _use_ by chemists. Topics include particles and waves, wave mechanics, semi-classical quantum mechanics, matrix mechanics, perturbation theory, molecular orbital theory, molecular structure, molecular spectroscopy, and photochemistry. Emphasis is on creating and building confidence in the use of intuitive pictures.\n",
   "department_numbers": [
     "5"
@@ -34,7 +33,6 @@
     "content": "beffb262-a87d-a85e-8e57-ab012cd59cae",
     "website": "5-61-physical-chemistry-fall-2017"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Exams with Solutions",

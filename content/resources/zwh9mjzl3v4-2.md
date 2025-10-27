@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/4517b636a81d5901b73b3d09e2d4df4d_zwH9MjZl3v4.vtt
 file_size: 50181
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
